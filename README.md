@@ -30,4 +30,4 @@ The Wurd Test Editor was made through UCLA's CS32 course. A skeleton repo includ
 
 From there, all files named `Student*` were written by me. Specifically, StudentTestEditor creates, holds, and modifies the file's text using a C++ list. StudentUndo enables the undo (Ctrl-Z) functionality using a stack. StudentSpellCheck performs the spell checking with the loaded dictionary using a trie. Note, dictionary.txt is loaded by default.
 
-A compiled executable version of Wurd named `wurd` has also been included in this repo. Feel free to try it out!
+A compiled executable version of Wurd for MacOS named `wurd` has also been included in this repo. Feel free to try it out!
